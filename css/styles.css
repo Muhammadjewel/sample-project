@@ -2,6 +2,10 @@ body {
   padding: 0;
   margin: 0;
 }
+.main-content {
+  background-color: gold;
+  color: #222;
+}
 .site-footer {
   background-color: #222;
   color: #fff;
